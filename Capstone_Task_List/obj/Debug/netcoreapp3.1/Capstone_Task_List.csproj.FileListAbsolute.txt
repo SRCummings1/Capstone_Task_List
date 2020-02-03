@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.exe
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.deps.json
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.runtimeconfig.json
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.dll
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\bin\Debug\netcoreapp3.1\Capstone_Task_List.pdb
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.dll
+C:\Users\baxte\source\repos\Capstone_Task_List\Capstone_Task_List\obj\Debug\netcoreapp3.1\Capstone_Task_List.pdb
